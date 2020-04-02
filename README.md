@@ -17,8 +17,8 @@
 Checkout this repo, install dependencies, then start the process with the following:
 
 ```bash
-> git clone https://github.com/allan2coder/React-SPA.git
-> cd React-SPA
+> git clone https://github.com/nanyouyangyong/React-Spa.git
+> cd React-Spa
 > npm install
 > npm start
 ```
@@ -29,8 +29,8 @@ Checkout this repo, install dependencies, then start the process with the follow
 npm run build
 ```
 
-## Want more
-https://github.com/khno
+## For more
+https://github.com/nanyouyangyong
 
 ## Reference
 * [Ant Design of React ](https://ant.design/docs/react/introduce-cn)
